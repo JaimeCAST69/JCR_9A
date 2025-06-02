@@ -1,3 +1,11 @@
 Contenido inicial del proyecto
+<<<<<<< HEAD
 rama y usuario 1
 User1: hola mundo rama 1
+=======
+User2: modificacion 1
+User2: hola mundo user2
+User2: hola mundo 2  user2
+User2: hola mundo 3 user2
+User2:despues del merge 
+>>>>>>> 9ef864dbb7b5b8d6517ebf137ee7208a975c1876
