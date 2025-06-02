@@ -14,3 +14,4 @@ User2:despues del merge
 User3: hola mundo user3
 User3: hola mundo 2 user3
 >>>>>>> df6997fb6dfd4852b5430f024ee179bf1d9b459f
+rama release casi completa
